@@ -1,5 +1,4 @@
-# k
-King & co. | Fresh Sourdough Delivery
+# King & co. | Fresh Sourdough Delivery
 
 A responsive landing page for King & Co., a sourdough bakery that delivers fresh bread every week. Built as part of my internship.
 
